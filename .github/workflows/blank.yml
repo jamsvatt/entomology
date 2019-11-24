@@ -2,8 +2,8 @@ name: Neeraj Singh
 
 on: [push]
 
-jobs:
-  build:
+jobs: teacher
+  build: 10/07/1998
 
     runs-on: ubuntu-latest
 
